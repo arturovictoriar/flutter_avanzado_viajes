@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "589162289045",
+    "project_id": "flutter-viajes",
+    "storage_bucket": "flutter-viajes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589162289045:android:ebaaf798c7d46684e9089c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_avanzado_viajes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589162289045-shs0rqr62do2fmkine7pm56ci1a46vq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqRfaKd2WMFK0qTjZOhCJ685T93POIjtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589162289045-shs0rqr62do2fmkine7pm56ci1a46vq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589162289045-flou1b4km0fripgjv3m7kskmn8n9vkkq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAvanzadoViajes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
